@@ -1,0 +1,13 @@
+node_modules/
+**/node_modules
+
+build/
+dist/
+
+/.git
+/.vscode
+public/
+
+webpack.config.js
+webpack.dev.js
+webpack.prod.js

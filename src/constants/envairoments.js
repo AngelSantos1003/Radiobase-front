@@ -1,0 +1,12 @@
+export default {
+	URL: process.env.URL,
+	PORT: process.env.PORT,
+	PRIMARY_COLOR: process.env.PRIMARY_COLOR,
+	SECONDARY_COLOR: process.env.SECONDARY_COLOR,
+	RED_COLOR: process.env.RED_COLOR,
+	YELLOW_COLOR: process.env.YELLOW_COLOR,
+	GREEN_COLOR: process.env.GREEN_COLOR,
+	PRIMARY_TEXT_COLOR: process.env.PRIMARY_TEXT_COLOR,
+	SECONDARY_TEXT_COLOR: process.env.SECONDARY_TEXT_COLOR,
+	TERTIARY_TEXT_COLOR: process.env.TERTIARY_TEXT_COLOR,
+};
